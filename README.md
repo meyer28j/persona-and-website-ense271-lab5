@@ -5,5 +5,7 @@ This is a demo of a made up persona (I got a little carried away :P) and screens
 ![image of persona](https://github.com/meyer28j/persona-and-website-ense271-lab5/blob/main/Persona-lab-5.png)
 
 ## Sample Pages
+### Home Page
 ![home page](https://github.com/meyer28j/persona-and-website-ense271-lab5/blob/main/pages/home1.PNG)
+### A Sample Blog Page
 ![pineapple blog](https://github.com/meyer28j/persona-and-website-ense271-lab5/blob/main/pages/blog-pineapple1.PNG)
